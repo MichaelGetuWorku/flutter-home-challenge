@@ -1,16 +1,13 @@
-# flutter_application_1
+# Tempest Smart houses
 
-A new Flutter project.
+A Flutter project Challenge for DyfoLabs.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A way to get started with this flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [First: run flutter pub get in the cmd]()
+- [Second: after the nesseery packages are downloaded use flutter to run command to run it.(That's is)]()
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
